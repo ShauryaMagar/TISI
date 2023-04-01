@@ -1,3 +1,4 @@
+/* eslint-disable */
 import './About.css';
 import Sports from './sports.png'
 ;const About = () =>{

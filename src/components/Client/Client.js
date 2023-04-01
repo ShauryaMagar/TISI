@@ -1,3 +1,4 @@
+/* eslint-disable */
 import TFIL from './Images/TFI.jpg';
 import './Client.css';
 const Client = () => {

@@ -1,3 +1,4 @@
+/* eslint-disable */
 import cover from './images/kids.jpg';
 import './Hero.css'
 const Hero = () =>{

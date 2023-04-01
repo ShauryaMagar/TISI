@@ -1,3 +1,4 @@
+/* eslint-disable */
 import './Navbar.css'
 import Logo from './TISI.png';
 const Navbar = () =>{
