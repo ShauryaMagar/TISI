@@ -1,0 +1,28 @@
+.client-img {
+    width: 50%;
+    filter: grayscale(100);
+}
+.client-section{
+    text-align: center;
+}
+
+.client-img:hover {
+    filter: none;
+    transform: scale(1.1);
+}
+.secTitle::before,
+.secTitle ::after {
+    content: "";
+    width: 50px;
+    height: 2px;
+    background: #4e71b7;
+    display: inline-block;
+}
+
+.secTitle::before {
+    margin: 0 15px 10px 0;
+}
+
+.secTitle::after {
+    margin: 0 0 10px 15px;
+}
